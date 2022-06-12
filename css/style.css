@@ -501,6 +501,12 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12),
         1px 4px 6px rgba(0, 0, 0, 0.16);;
 
 }
+.portfolio-projects-link img {
+    display: block;
+}
+
+
+
 /*------4-----*/
 .client-title{
     font-weight: 700;
@@ -589,7 +595,6 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12),
 
 .client-item {
     flex-basis: calc(100% / 6 - 30px);
-    margin-left: 30px;
 }
 .footer-right {
     margin-left: 70px;
